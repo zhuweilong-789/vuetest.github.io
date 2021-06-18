@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0be145"],{"2f72":function(e,t,n){"use strict";n.r(t);var r=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[e._v(" 路由的嵌套 "),n("div",[n("router-link",{attrs:{to:"/nesta/nestb"}},[e._v("嵌套b")]),n("router-view")],1)])},s=[],u={name:"Nesta"},a=u,i=n("2877"),l=Object(i["a"])(a,r,s,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0be145.eea62069.js.map
